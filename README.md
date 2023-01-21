@@ -1,7 +1,7 @@
 ### Olá eu sou Lucas 😜
 -  19 years
 -  A programer in progress💻
--  I study programmer a 6 monthers!
+-  I study programmer a 7 monthers!
 
 
 
