@@ -1,7 +1,8 @@
 ### Olá eu sou Lucas 😜
 -  19 years
 -  A programer in progress💻
--  I study programmer a 7 monthers!
+-  I study programmer a 8 monthers!
+-  Análise e desenvolvimento de sistemas
 
 
 
