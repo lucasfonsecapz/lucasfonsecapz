@@ -2,7 +2,7 @@
 -  19 years
 -  A programer in progress💻
 -  I study programming for 1 year!
--  Análise e desenvolvimento de sistemas
+
 
 
 
